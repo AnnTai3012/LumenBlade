@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: d52301aca67fec14c9470619c231db34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4295039307428948894
+    second: Skill1_0
+  - first:
+      213: 2568111669257182342
+    second: Skill1_1
+  - first:
+      213: 5208163471679184598
+    second: Skill1_2
+  - first:
+      213: -2494526410339912427
+    second: Skill1_3
+  - first:
+      213: 6815201271454372601
+    second: Skill1_4
+  - first:
+      213: 1383126235524219841
+    second: Skill1_5
+  - first:
+      213: -4418183862922187150
+    second: Skill1_6
+  - first:
+      213: -5515353149770274627
+    second: Skill1_7
+  - first:
+      213: -4139581102542967437
+    second: Skill1_8
+  - first:
+      213: -700587470707606075
+    second: Skill1_9
+  - first:
+      213: 2039025461255526097
+    second: Skill1_10
+  - first:
+      213: -2320055426486892978
+    second: Skill1_11
+  - first:
+      213: -6411492483857033987
+    second: Skill1_12
+  - first:
+      213: 4146632421368725078
+    second: Skill1_13
+  - first:
+      213: -606774130493570237
+    second: Skill1_14
+  - first:
+      213: -3626221525281394082
+    second: Skill1_15
+  - first:
+      213: 6183067424099194825
+    second: Skill1_16
+  - first:
+      213: -4123966264047406689
+    second: Skill1_17
+  - first:
+      213: 5836567917515078505
+    second: Skill1_18
+  - first:
+      213: -7946171872350830089
+    second: Skill1_19
+  - first:
+      213: 1400825468997013061
+    second: Skill1_20
+  - first:
+      213: -8774622837281393817
+    second: Skill1_21
+  - first:
+      213: -2268567318829895423
+    second: Skill1_22
+  - first:
+      213: -7376221957549002805
+    second: Skill1_23
+  - first:
+      213: 9043915533022892336
+    second: Skill1_24
+  - first:
+      213: -8613743322682634906
+    second: Skill1_25
+  - first:
+      213: -6292963477825296180
+    second: Skill1_26
+  - first:
+      213: -4707907101009034450
+    second: Skill1_27
+  - first:
+      213: -526077063150037564
+    second: Skill1_28
+  - first:
+      213: -4619190387585396186
+    second: Skill1_29
+  - first:
+      213: 4433839417064954258
+    second: Skill1_30
+  - first:
+      213: -3386688925303473326
+    second: Skill1_31
+  - first:
+      213: 7214704962075609176
+    second: Skill1_32
+  - first:
+      213: -3129944466443972616
+    second: Skill1_33
+  - first:
+      213: 7687722506250350511
+    second: Skill1_34
+  - first:
+      213: 3969574646894702986
+    second: Skill1_35
+  - first:
+      213: 2270282511060891986
+    second: Skill1_36
+  - first:
+      213: -308131166833180944
+    second: Skill1_37
+  - first:
+      213: 8530829559886782086
+    second: Skill1_38
+  - first:
+      213: -1504121063513050604
+    second: Skill1_39
+  - first:
+      213: -5098740085966788673
+    second: Skill1_40
+  - first:
+      213: -2384583807954183140
+    second: Skill1_41
+  - first:
+      213: 6272569493973995444
+    second: Skill1_42
+  - first:
+      213: -1013078522523948091
+    second: Skill1_43
+  - first:
+      213: 6439632913027322312
+    second: Skill1_44
+  - first:
+      213: 1539186670296983929
+    second: Skill1_45
+  - first:
+      213: 3439416283321596659
+    second: Skill1_46
+  - first:
+      213: 79703222826356914
+    second: Skill1_47
+  - first:
+      213: 7528932436968774864
+    second: Skill1_48
+  - first:
+      213: -2185750347742299661
+    second: Skill1_49
+  - first:
+      213: 5553384014376402746
+    second: Skill1_50
+  - first:
+      213: 3572910697514914722
+    second: Skill1_51
+  - first:
+      213: -1306921280915660808
+    second: Skill1_52
+  - first:
+      213: -6193823074970042827
+    second: Skill1_53
+  - first:
+      213: 4224780404300687472
+    second: Skill1_54
+  - first:
+      213: 2116268689585540796
+    second: Skill1_55
+  - first:
+      213: -5397287710951579876
+    second: Skill1_56
+  - first:
+      213: 6102699335393805764
+    second: Skill1_57
+  - first:
+      213: 6369225151659504759
+    second: Skill1_58
+  - first:
+      213: 7490699042598375035
+    second: Skill1_59
+  - first:
+      213: -2614569247524481201
+    second: Skill1_60
+  - first:
+      213: -5255115495979988386
+    second: Skill1_61
+  - first:
+      213: 1631556969319636412
+    second: Skill1_62
+  - first:
+      213: 4640057509867373469
+    second: Skill1_63
+  - first:
+      213: 3180673666703944482
+    second: Skill1_64
+  - first:
+      213: -2459319411018926695
+    second: Skill1_65
+  - first:
+      213: 2692597605414125880
+    second: Skill1_66
+  - first:
+      213: 6619989489917274332
+    second: Skill1_67
+  - first:
+      213: -2789106317230567960
+    second: Skill1_68
+  - first:
+      213: -6963500885962807477
+    second: Skill1_69
+  - first:
+      213: -4925225100284016256
+    second: Skill1_70
+  - first:
+      213: -5637125869576545132
+    second: Skill1_71
+  - first:
+      213: 7393100946500647141
+    second: Skill1_72
+  - first:
+      213: 6655982386075165719
+    second: Skill1_73
+  - first:
+      213: 1770150237918926313
+    second: Skill1_74
+  - first:
+      213: -6099264313654312696
+    second: Skill1_75
+  - first:
+      213: 5467443588791668447
+    second: Skill1_76
+  - first:
+      213: 6402160532594806764
+    second: Skill1_77
+  - first:
+      213: -7882649466743942250
+    second: Skill1_78
+  - first:
+      213: 1211140092521647213
+    second: Skill1_79
+  - first:
+      213: -3241077174604415985
+    second: Skill1_80
+  - first:
+      213: -2902179302579560148
+    second: Skill1_81
+  - first:
+      213: -1651013129414379008
+    second: Skill1_82
+  - first:
+      213: 1161229350726783556
+    second: Skill1_83
+  - first:
+      213: -2768239345231370738
+    second: Skill1_84
+  - first:
+      213: -4812686191611613584
+    second: Skill1_85
+  - first:
+      213: -4386686498857386813
+    second: Skill1_86
+  - first:
+      213: -3575884609933983915
+    second: Skill1_87
+  - first:
+      213: 2129737347844776190
+    second: Skill1_88
+  - first:
+      213: 1501269666523238972
+    second: Skill1_89
+  - first:
+      213: 5730019473644441995
+    second: Skill1_90
+  - first:
+      213: -3538890827936077514
+    second: Skill1_91
+  - first:
+      213: 1248818989676812073
+    second: Skill1_92
+  - first:
+      213: 3703966393391392385
+    second: Skill1_93
+  - first:
+      213: -2355559038175747083
+    second: Skill1_94
+  - first:
+      213: 7649928569614913585
+    second: Skill1_95
+  - first:
+      213: -6711900271204846770
+    second: Skill1_96
+  - first:
+      213: 688507807755856217
+    second: Skill1_97
+  - first:
+      213: -5788652983421489968
+    second: Skill1_98
+  - first:
+      213: -658460824246557217
+    second: Skill1_99
+  - first:
+      213: 1932455486626545426
+    second: Skill1_100
+  - first:
+      213: 4950055561326135759
+    second: Skill1_101
+  - first:
+      213: -4291424524931131184
+    second: Skill1_102
+  - first:
+      213: 5710934520568739897
+    second: Skill1_103
+  - first:
+      213: 6337155977917357508
+    second: Skill1_104
+  - first:
+      213: -1757456522170064708
+    second: Skill1_105
+  - first:
+      213: 7087721592830029160
+    second: Skill1_106
+  - first:
+      213: -2066736813575021559
+    second: Skill1_107
+  - first:
+      213: 2108309172657688765
+    second: Skill1_108
+  - first:
+      213: -3940882775822566953
+    second: Skill1_109
+  - first:
+      213: 202147050005312933
+    second: Skill1_110
+  - first:
+      213: 4633724823847321064
+    second: Skill1_111
+  - first:
+      213: -1157525387527816578
+    second: Skill1_112
+  - first:
+      213: 6126788959464988098
+    second: Skill1_113
+  - first:
+      213: -1722900474671039953
+    second: Skill1_114
+  - first:
+      213: 6880916808994686911
+    second: Skill1_115
+  - first:
+      213: -7497922446381542636
+    second: Skill1_116
+  - first:
+      213: -4539180177089168851
+    second: Skill1_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill1_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.51439005, y: 0.47838697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649b588184f464c0800000000000000
+      internalID: -4295039307428948894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 15
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.56209195, y: 0.5110038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c1c9de4f3c3a320800000000000000
+      internalID: 2568111669257182342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 15
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6862594, y: 0.5093621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5a9d551d174840800000000000000
+      internalID: 5208163471679184598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 15
+        width: 43
+        height: 54
+      alignment: 9
+      pivot: {x: 0.69188035, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515fbd44279a16dd0800000000000000
+      internalID: -2494526410339912427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_7
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 15
+        width: 199
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db86c1928878573b0800000000000000
+      internalID: -5515353149770274627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_18
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 15
+        width: 239
+        height: 66
+      alignment: 9
+      pivot: {x: 0.49215022, y: 0.42474222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b7de6f897aff050800000000000000
+      internalID: 5836567917515078505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_26
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 15
+        width: 212
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5022128, y: 0.46347553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc867b7fe07eaa8a0800000000000000
+      internalID: -6292963477825296180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_33
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 15
+        width: 194
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5243436, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff48e647143094d0800000000000000
+      internalID: -3129944466443972616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_43
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 14
+        width: 216
+        height: 55
+      alignment: 9
+      pivot: {x: 0.506689, y: 0.5040413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe1678372d0f1f0800000000000000
+      internalID: -1013078522523948091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_52
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 15
+        width: 194
+        height: 57
+      alignment: 9
+      pivot: {x: 0.51890457, y: 0.48275462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff9f95f402ecdde0800000000000000
+      internalID: -1306921280915660808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_62
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 15
+        width: 215
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1c135b6474a610800000000000000
+      internalID: 1631556969319636412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_71
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 14
+        width: 194
+        height: 55
+      alignment: 9
+      pivot: {x: 0.52348787, y: 0.5101034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c99bd63e7e4c1b0800000000000000
+      internalID: -5637125869576545132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_78
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 14
+        width: 165
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5853634, y: 0.5161654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6931ec5f2143b9290800000000000000
+      internalID: -7882649466743942250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_82
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 14
+        width: 151
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5722495, y: 0.51112294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00affb56e4c6619e0800000000000000
+      internalID: -1651013129414379008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_84
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 14
+        width: 150
+        height: 55
+      alignment: 9
+      pivot: {x: 0.56883466, y: 0.51717365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0669367bfc3599d0800000000000000
+      internalID: -2768239345231370738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill1_87
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 14
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.51970255, y: 0.5119053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3913a4e7ef5ec0800000000000000
+      internalID: -3575884609933983915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35f749b822cdce14dbcb84f51b9e129a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill1_0: -4295039307428948894
+      Skill1_1: 2568111669257182342
+      Skill1_10: 2039025461255526097
+      Skill1_100: 1932455486626545426
+      Skill1_101: 4950055561326135759
+      Skill1_102: -4291424524931131184
+      Skill1_103: 5710934520568739897
+      Skill1_104: 6337155977917357508
+      Skill1_105: -1757456522170064708
+      Skill1_106: 7087721592830029160
+      Skill1_107: -2066736813575021559
+      Skill1_108: 2108309172657688765
+      Skill1_109: -3940882775822566953
+      Skill1_11: -2320055426486892978
+      Skill1_110: 202147050005312933
+      Skill1_111: 4633724823847321064
+      Skill1_112: -1157525387527816578
+      Skill1_113: 6126788959464988098
+      Skill1_114: -1722900474671039953
+      Skill1_115: 6880916808994686911
+      Skill1_116: -7497922446381542636
+      Skill1_117: -4539180177089168851
+      Skill1_12: -6411492483857033987
+      Skill1_13: 4146632421368725078
+      Skill1_14: -606774130493570237
+      Skill1_15: -3626221525281394082
+      Skill1_16: 6183067424099194825
+      Skill1_17: -4123966264047406689
+      Skill1_18: 5836567917515078505
+      Skill1_19: -7946171872350830089
+      Skill1_2: 5208163471679184598
+      Skill1_20: 1400825468997013061
+      Skill1_21: -8774622837281393817
+      Skill1_22: -2268567318829895423
+      Skill1_23: -7376221957549002805
+      Skill1_24: 9043915533022892336
+      Skill1_25: -8613743322682634906
+      Skill1_26: -6292963477825296180
+      Skill1_27: -4707907101009034450
+      Skill1_28: -526077063150037564
+      Skill1_29: -4619190387585396186
+      Skill1_3: -2494526410339912427
+      Skill1_30: 4433839417064954258
+      Skill1_31: -3386688925303473326
+      Skill1_32: 7214704962075609176
+      Skill1_33: -3129944466443972616
+      Skill1_34: 7687722506250350511
+      Skill1_35: 3969574646894702986
+      Skill1_36: 2270282511060891986
+      Skill1_37: -308131166833180944
+      Skill1_38: 8530829559886782086
+      Skill1_39: -1504121063513050604
+      Skill1_4: 6815201271454372601
+      Skill1_40: -5098740085966788673
+      Skill1_41: -2384583807954183140
+      Skill1_42: 6272569493973995444
+      Skill1_43: -1013078522523948091
+      Skill1_44: 6439632913027322312
+      Skill1_45: 1539186670296983929
+      Skill1_46: 3439416283321596659
+      Skill1_47: 79703222826356914
+      Skill1_48: 7528932436968774864
+      Skill1_49: -2185750347742299661
+      Skill1_5: 1383126235524219841
+      Skill1_50: 5553384014376402746
+      Skill1_51: 3572910697514914722
+      Skill1_52: -1306921280915660808
+      Skill1_53: -6193823074970042827
+      Skill1_54: 4224780404300687472
+      Skill1_55: 2116268689585540796
+      Skill1_56: -5397287710951579876
+      Skill1_57: 6102699335393805764
+      Skill1_58: 6369225151659504759
+      Skill1_59: 7490699042598375035
+      Skill1_6: -4418183862922187150
+      Skill1_60: -2614569247524481201
+      Skill1_61: -5255115495979988386
+      Skill1_62: 1631556969319636412
+      Skill1_63: 4640057509867373469
+      Skill1_64: 3180673666703944482
+      Skill1_65: -2459319411018926695
+      Skill1_66: 2692597605414125880
+      Skill1_67: 6619989489917274332
+      Skill1_68: -2789106317230567960
+      Skill1_69: -6963500885962807477
+      Skill1_7: -5515353149770274627
+      Skill1_70: -4925225100284016256
+      Skill1_71: -5637125869576545132
+      Skill1_72: 7393100946500647141
+      Skill1_73: 6655982386075165719
+      Skill1_74: 1770150237918926313
+      Skill1_75: -6099264313654312696
+      Skill1_76: 5467443588791668447
+      Skill1_77: 6402160532594806764
+      Skill1_78: -7882649466743942250
+      Skill1_79: 1211140092521647213
+      Skill1_8: -4139581102542967437
+      Skill1_80: -3241077174604415985
+      Skill1_81: -2902179302579560148
+      Skill1_82: -1651013129414379008
+      Skill1_83: 1161229350726783556
+      Skill1_84: -2768239345231370738
+      Skill1_85: -4812686191611613584
+      Skill1_86: -4386686498857386813
+      Skill1_87: -3575884609933983915
+      Skill1_88: 2129737347844776190
+      Skill1_89: 1501269666523238972
+      Skill1_9: -700587470707606075
+      Skill1_90: 5730019473644441995
+      Skill1_91: -3538890827936077514
+      Skill1_92: 1248818989676812073
+      Skill1_93: 3703966393391392385
+      Skill1_94: -2355559038175747083
+      Skill1_95: 7649928569614913585
+      Skill1_96: -6711900271204846770
+      Skill1_97: 688507807755856217
+      Skill1_98: -5788652983421489968
+      Skill1_99: -658460824246557217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 747815faceeb70348863c31d6c312e3b, type: 3}
+  m_Name: Resources and UI Settings
+  m_EditorClassIdentifier: Assembly-CSharp::GameResourceSettings
+  capacityPerKind: 5
+  cryHealPrice: 6
+  cryShieldPrice: 5
+  healFraction: 0.3
+  shieldFraction: 0.25
+  shieldDuration: 8
+  cryHealIcon: {fileID: -8109631872625181448, guid: 7782a9656311d8e4aae1a9662b76ccd0, type: 3}
+  cryShieldIcon: {fileID: -222335221781759598, guid: 1c6b5db9db632f5468fe232dcccd1fb3, type: 3}
+  spiritStoneIcon: {fileID: 1248743628174530139, guid: 1fb36eb15008e7c4d90c802041c25fe4, type: 3}
+  keyIcon: {fileID: 238671757442152928, guid: 5ad5022f828a0844fabad2d7e78888c1, type: 3}
+  healEffectPrefab: {fileID: 1549574684262523275, guid: e067c847d60e329439c47c043c0cf71d, type: 3}
+  shieldEffectPrefab: {fileID: 3134795680900109151, guid: ce6d59c2a2db548458032a0a5e70f089, type: 3}
+  reviveCrossCapacity: 2
+  reviveCrossPrice: 30
+  reviveHealthFraction: 0.5
+  reviveInvulnerability: 3
+  reviveCrossIcon: {fileID: 1573324749685402781, guid: 30d858207301ddc4b9ac74a09b8088e7, type: 3}
+  itemCellFrame: {fileID: 1265349961941987693, guid: 996c2c647aab9974586ad9faaefe8803, type: 3}
+  shopCellFrame: {fileID: 3243251481694955850, guid: 996c2c647aab9974586ad9faaefe8803, type: 3}
+  shopPanelFrame: {fileID: -4678988544270428959, guid: 996c2c647aab9974586ad9faaefe8803, type: 3}
+  blessingPanelFrame: {fileID: -2841603707981494395, guid: 996c2c647aab9974586ad9faaefe8803, type: 3}
+  font: {fileID: 11400000, guid: 6c414065a0c30dc4783998cface71a2d, type: 2}
+  skill1Icon: {fileID: -4675878459879113775, guid: 7edf7604667c5384fbe6dacfda5ea299, type: 3}
+  skill2Icon: {fileID: 484751614779123809, guid: 00e4c194e3f6d0c418b560464138b65f, type: 3}
+  skill3Icon: {fileID: 5066489834660777080, guid: 77291bd2672d6e44dac084167344d836, type: 3}
+  damageBonusPerBlessing: 0.05
+  maxDamageBonus: 1
+  damageBlessingIcon: {fileID: -8607818911506263392, guid: 57f8a2189483ff642bd13c35975f9d24, type: 3}
+  blessings:
+  - title: "Sinh l\u1EF1c"
+    description: "+5% HP g\u1ED1c c\u1EE7a Chapter.\nT\u1ED1i \u0111a +100% (20 l\u1EA7n)."
+    reward: 0
+    icon: {fileID: 2903848411162822477, guid: d75e8178007e33642b8131955686602b, type: 3}
+  - title: "Th\u1EC3 l\u1EF1c"
+    description: "+5% stamina g\u1ED1c c\u1EE7a Chapter.\nT\u1ED1i \u0111a +100%
+      (20 l\u1EA7n)."
+    reward: 1
+    icon: {fileID: -6717884257390833292, guid: f0b044ae4025223419bca3cc9537342f, type: 3}
+  - title: "S\u1EE9c m\u1EA1nh"
+    description: "+{damagePercent}% s\xE1t th\u01B0\u01A1ng m\u1ECDi \u0111\xF2n
+      \u0111\xE1nh.\nT\u1ED1i \u0111a +{damageCap}%."
+    reward: 5
+    icon: {fileID: -8607818911506263392, guid: 57f8a2189483ff642bd13c35975f9d24, type: 3}
+  - title: "V\u1EADt ph\u1EA9m"
+    description: "Nh\u1EADn 1 CryHeal\nv\xE0 1 CryShield.\nNh\u1EA5n 1 / 2 \u0111\u1EC3
+      d\xF9ng."
+    reward: 6
+    icon: {fileID: 0}

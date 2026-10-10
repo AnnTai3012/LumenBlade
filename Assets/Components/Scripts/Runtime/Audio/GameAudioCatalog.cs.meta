@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: 9a313b674c4d438498b3259c5b1d10fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {instanceID: 0}
+  - uiButtonClick: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  - settingsOpen: {instanceID: 0}
+  - settingsClose: {instanceID: 0}
+  - storeOpen: {instanceID: 0}
+  - storeClose: {instanceID: 0}
+  - blessingPanelOpen: {instanceID: 0}
+  - restartPanelOpen: {instanceID: 0}
+  - playerAttack: {fileID: 8300000, guid: 2fdc98b482182ad46b8b224da7fb7e8d, type: 3}
+  - playerJumpAttack: {fileID: 8300000, guid: 635430faec61ea240a704533cb9f9505, type: 3}
+  - playerSkill1: {instanceID: 0}
+  - playerSkill2: {instanceID: 0}
+  - playerTakeHit: {instanceID: 0}
+  - playerDeath: {instanceID: 0}
+  - playerFallImpact: {instanceID: 0}
+  - playerJump: {instanceID: 0}
+  - playerDash: {instanceID: 0}
+  - playerFootstep: {instanceID: 0}
+  - healItemUse: {instanceID: 0}
+  - shieldItemUse: {instanceID: 0}
+  - monsterAttack1: {instanceID: 0}
+  - monsterAttack2: {instanceID: 0}
+  - monsterTakeHit: {instanceID: 0}
+  - monsterDeath: {instanceID: 0}
+  - bossShootAttack: {instanceID: 0}
+  - bossMagicAttack: {instanceID: 0}
+  - bossLaserAttack: {instanceID: 0}
+  - bossMeleeAttack: {instanceID: 0}
+  - bossShield: {instanceID: 0}
+  - bossTakeHit: {instanceID: 0}
+  - bossDeath: {instanceID: 0}
+  - bossAppear: {instanceID: 0}
+  - itemReceived: {instanceID: 0}
+  - keyPickup: {instanceID: 0}
+  - blessingReceived: {fileID: 8300000, guid: c300445320ba25e4588c5c7623583113, type: 3}
+  - levelTransition: {instanceID: 0}
+  - chestOpen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

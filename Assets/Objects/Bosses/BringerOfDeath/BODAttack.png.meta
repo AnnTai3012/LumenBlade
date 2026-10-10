@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 6c4e1d90e1bfac543bc3d6ff2b6b0bff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4799168860976802897
+    second: BODAttack_0
+  - first:
+      213: -7394741954998717909
+    second: BODAttack_1
+  - first:
+      213: -3364750013291921689
+    second: BODAttack_2
+  - first:
+      213: -6846963144400248547
+    second: BODAttack_3
+  - first:
+      213: -615801671609451538
+    second: BODAttack_4
+  - first:
+      213: -1080123206391017589
+    second: BODAttack_5
+  - first:
+      213: 588961304240862864
+    second: BODAttack_6
+  - first:
+      213: -7718823176319259435
+    second: BODAttack_7
+  - first:
+      213: 4902268452919907902
+    second: BODAttack_8
+  - first:
+      213: -3414328464842542578
+    second: BODAttack_9
+  - first:
+      213: 5997708203266173167
+    second: BODAttack_10
+  - first:
+      213: -6549532688562774631
+    second: BODAttack_11
+  - first:
+      213: -2400206998345384614
+    second: BODAttack_12
+  - first:
+      213: 1512659025275320854
+    second: BODAttack_13
+  - first:
+      213: -4359169731281262306
+    second: BODAttack_14
+  - first:
+      213: 932454520713382091
+    second: BODAttack_15
+  - first:
+      213: 4678736074422410238
+    second: BODAttack_16
+  - first:
+      213: -6564747138506647845
+    second: BODAttack_17
+  - first:
+      213: 4726005063724660752
+    second: BODAttack_18
+  - first:
+      213: 3204639630578090765
+    second: BODAttack_19
+  - first:
+      213: 2389244356824027531
+    second: BODAttack_20
+  - first:
+      213: 6748805419628722730
+    second: BODAttack_21
+  - first:
+      213: 3476910799209077493
+    second: BODAttack_22
+  - first:
+      213: 6693522107206301077
+    second: BODAttack_23
+  - first:
+      213: -8980740932647036729
+    second: BODAttack_24
+  - first:
+      213: 7756906610943069613
+    second: BODAttack_25
+  - first:
+      213: 6176049148138751108
+    second: BODAttack_26
+  - first:
+      213: 7359059727857250218
+    second: BODAttack_27
+  - first:
+      213: -9039704745501645561
+    second: BODAttack_28
+  - first:
+      213: -8935811505768855419
+    second: BODAttack_29
+  - first:
+      213: -3607081573271476213
+    second: BODAttack_30
+  - first:
+      213: -4020626148463360781
+    second: BODAttack_31
+  - first:
+      213: 2881255097199728806
+    second: BODAttack_32
+  - first:
+      213: -3665528844427303977
+    second: BODAttack_33
+  - first:
+      213: -4510249597114443603
+    second: BODAttack_34
+  - first:
+      213: -5287156973832645830
+    second: BODAttack_35
+  - first:
+      213: -7077520410883762513
+    second: BODAttack_36
+  - first:
+      213: 8047703340588334043
+    second: BODAttack_37
+  - first:
+      213: 7509340262177655610
+    second: BODAttack_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODAttack_0
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c63a7e6a21a9240800000000000000
+      internalID: 4799168860976802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_1
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22bf96fe59906990800000000000000
+      internalID: -7394741954998717909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4861aaa1a201f0800000000000000
+      internalID: -1080123206391017589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0963abd8f296c2800800000000000000
+      internalID: 588961304240862864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc207b973b31e490800000000000000
+      internalID: -7718823176319259435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d030fbdd3ca297c20800000000000000
+      internalID: 3204639630578090765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815a12751d482120800000000000000
+      internalID: 2389244356824027531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c853c924bffd5380800000000000000
+      internalID: -8980740932647036729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c136f1ddd338c0800000000000000
+      internalID: -4020626148463360781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODAttack_32
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a89fdfce364cf720800000000000000
+      internalID: 2881255097199728806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: acf79ce2e90373e449019068c13832c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BODAttack_0: 4799168860976802897
+      BODAttack_1: -7394741954998717909
+      BODAttack_10: 5997708203266173167
+      BODAttack_11: -6549532688562774631
+      BODAttack_12: -2400206998345384614
+      BODAttack_13: 1512659025275320854
+      BODAttack_14: -4359169731281262306
+      BODAttack_15: 932454520713382091
+      BODAttack_16: 4678736074422410238
+      BODAttack_17: -6564747138506647845
+      BODAttack_18: 4726005063724660752
+      BODAttack_19: 3204639630578090765
+      BODAttack_2: -3364750013291921689
+      BODAttack_20: 2389244356824027531
+      BODAttack_21: 6748805419628722730
+      BODAttack_22: 3476910799209077493
+      BODAttack_23: 6693522107206301077
+      BODAttack_24: -8980740932647036729
+      BODAttack_25: 7756906610943069613
+      BODAttack_26: 6176049148138751108
+      BODAttack_27: 7359059727857250218
+      BODAttack_28: -9039704745501645561
+      BODAttack_29: -8935811505768855419
+      BODAttack_3: -6846963144400248547
+      BODAttack_30: -3607081573271476213
+      BODAttack_31: -4020626148463360781
+      BODAttack_32: 2881255097199728806
+      BODAttack_33: -3665528844427303977
+      BODAttack_34: -4510249597114443603
+      BODAttack_35: -5287156973832645830
+      BODAttack_36: -7077520410883762513
+      BODAttack_37: 8047703340588334043
+      BODAttack_38: 7509340262177655610
+      BODAttack_4: -615801671609451538
+      BODAttack_5: -1080123206391017589
+      BODAttack_6: 588961304240862864
+      BODAttack_7: -7718823176319259435
+      BODAttack_8: 4902268452919907902
+      BODAttack_9: -3414328464842542578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

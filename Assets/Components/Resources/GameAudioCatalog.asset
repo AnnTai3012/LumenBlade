@@ -1,0 +1,761 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a313b674c4d438498b3259c5b1d10fc, type: 3}
+  m_Name: Game Audio Catalog
+  m_EditorClassIdentifier: Assembly-CSharp::GameAudioCatalog
+  backgroundMusic: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+  menuMusic: {fileID: 8300000, guid: d02db59f18b43a04f8967b8dfb054ab9, type: 3}
+  bossMusic: {fileID: 8300000, guid: e82a85552a9a2fd46b9e84a2208cfe57, type: 3}
+  shopMusic: {fileID: 8300000, guid: d50a08612a5f7db429a5e8cdce781605, type: 3}
+  caveAmbience: {fileID: 8300000, guid: 1de264fef32e73549b45e44c99451f86, type: 3}
+  lowHealthHeartbeat: {fileID: 8300000, guid: be38e08d9afbf034ebd6381aaf3347ee, type: 3}
+  transitionSeconds: 1.25
+  bossBackgroundDelay: 10
+  lowHealthThreshold: 0.25
+  bossPressureThreshold: 0.35
+  sceneProfiles:
+  - sceneName: Level 1
+    environment: 0
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.1
+    reverb: 0.16
+  - sceneName: Level 2
+    environment: 0
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.13
+    reverb: 0.23
+  - sceneName: Level 3
+    environment: 0
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.16
+    reverb: 0.28
+  - sceneName: Purchasing LevelsC1
+    environment: 1
+    music: {fileID: 8300000, guid: d50a08612a5f7db429a5e8cdce781605, type: 3}
+    ambienceVolume: 0
+    reverb: 0.03
+  - sceneName: Level BossC1
+    environment: 2
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.07
+    reverb: 0.32
+  - sceneName: Level BossC2
+    environment: 2
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.07
+    reverb: 0.32
+  - sceneName: Level BossC3
+    environment: 2
+    music: {fileID: 8300000, guid: b8944f9488a413b4cb580302bae9b984, type: 3}
+    ambienceVolume: 0.07
+    reverb: 0.32
+  - sceneName: Main Menu
+    environment: 1
+    music: {fileID: 8300000, guid: d02db59f18b43a04f8967b8dfb054ab9, type: 3}
+    ambienceVolume: 0
+    reverb: 0.03
+  cueSettings:
+  - cue: 0
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 1
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 2
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 3
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 4
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 5
+    volume: 0.48
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 1
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 6
+    volume: 0.58
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.08
+    maxVoices: 3
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 7
+    volume: 0.42
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.025
+    maxVoices: 1
+    priority: 65
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0.36
+    speedMultiplier: 1
+    fadeInSeconds: 0.003
+    fadeOutSeconds: 0.025
+  - cue: 8
+    volume: 0.5
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.05
+    maxVoices: 1
+    priority: 65
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0.75
+    speedMultiplier: 1
+    fadeInSeconds: 0.003
+    fadeOutSeconds: 0.04
+  - cue: 9
+    volume: 0.68
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 45
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 10
+    volume: 0.68
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 45
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 11
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 12
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.25
+    maxVoices: 1
+    priority: 15
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 13
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 14
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 15
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.05
+    maxVoices: 1
+    priority: 50
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0.6
+    speedMultiplier: 1
+    fadeInSeconds: 0.005
+    fadeOutSeconds: 0.08
+  - cue: 16
+    volume: 0.24
+    minPitch: 0.96
+    maxPitch: 1.04
+    cooldown: 0.16
+    maxVoices: 2
+    priority: 220
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 17
+    volume: 0.48
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 1
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 18
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.05
+    maxVoices: 1
+    priority: 55
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0.005
+    fadeOutSeconds: 0.04
+  - cue: 19
+    volume: 0.4
+    minPitch: 0.97
+    maxPitch: 1.03
+    cooldown: 0.12
+    maxVoices: 2
+    priority: 180
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 20
+    volume: 0.4
+    minPitch: 0.97
+    maxPitch: 1.03
+    cooldown: 0.12
+    maxVoices: 2
+    priority: 180
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 21
+    volume: 0.4
+    minPitch: 0.97
+    maxPitch: 1.03
+    cooldown: 0.12
+    maxVoices: 2
+    priority: 180
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 22
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 23
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 24
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 25
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 26
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 27
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 28
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 29
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 30
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.25
+    maxVoices: 1
+    priority: 15
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 31
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 32
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 33
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 34
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 35
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 36
+    volume: 0.68
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 45
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 37
+    volume: 0.4
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.25
+    maxVoices: 1
+    priority: 15
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 38
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 39
+    volume: 0.4
+    minPitch: 0.97
+    maxPitch: 1.03
+    cooldown: 0.12
+    maxVoices: 2
+    priority: 180
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 40
+    volume: 0.4
+    minPitch: 0.97
+    maxPitch: 1.03
+    cooldown: 0.12
+    maxVoices: 2
+    priority: 180
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 41
+    volume: 0.68
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.15
+    maxVoices: 2
+    priority: 65
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 42
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 43
+    volume: 0.68
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.15
+    maxVoices: 2
+    priority: 65
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 44
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.25
+    maxVoices: 1
+    priority: 15
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 45
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.25
+    maxVoices: 1
+    priority: 15
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 46
+    volume: 0.7
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.05
+    maxVoices: 1
+    priority: 40
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0.003
+    fadeOutSeconds: 0.04
+  - cue: 47
+    volume: 0.62
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.06
+    maxVoices: 3
+    priority: 128
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0
+    fadeOutSeconds: 0
+  - cue: 51
+    volume: 0.55
+    minPitch: 1
+    maxPitch: 1
+    cooldown: 0.18
+    maxVoices: 1
+    priority: 60
+    matchAnimation: 1
+    startSeconds: 0
+    segmentSeconds: 0
+    speedMultiplier: 1
+    fadeInSeconds: 0.003
+    fadeOutSeconds: 0.025
+  uiButtonClick: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  settingsOpen: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  settingsClose: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  storeOpen: {fileID: 8300000, guid: 8d98cbe25bf6e6a498919caef9305632, type: 3}
+  storeClose: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  blessingPanelOpen: {fileID: 8300000, guid: 0549b6e92192756408a586f231b9ef64, type: 3}
+  restartPanelOpen: {fileID: 8300000, guid: 4ff454bfdcf12464c95a91535ec0117c, type: 3}
+  playerAttack: {fileID: 8300000, guid: 2fdc98b482182ad46b8b224da7fb7e8d, type: 3}
+  playerJumpAttack: {fileID: 8300000, guid: 635430faec61ea240a704533cb9f9505, type: 3}
+  playerSkill1: {fileID: 8300000, guid: 80bab37035c177d4ba4c73f51816a7d0, type: 3}
+  playerSkill2: {fileID: 8300000, guid: 3e76f34acbd55104ead77906713e26fe, type: 3}
+  playerSkill3: {fileID: 8300000, guid: 18312e1105a192049898cab412e2798f, type: 3}
+  playerRevive: {fileID: 8300000, guid: 1ee1b8854f32f0544a14fee8ccb43d70, type: 3}
+  skill1Timing:
+    matchAnimation: 1
+    speedMultiplier: 1
+  skill2Timing:
+    matchAnimation: 1
+    speedMultiplier: 1
+  skill3Timing:
+    matchAnimation: 1
+    speedMultiplier: 1
+  playerTakeHit: {fileID: 8300000, guid: a2baf3a1a46f0cc4da9798539f209df1, type: 3}
+  playerDeath: {fileID: 8300000, guid: 8d62eddf6d410e94c9ec84df33205ad1, type: 3}
+  playerFallImpact: {fileID: 8300000, guid: 8f6ae47108297094d96499a47992545d, type: 3}
+  playerJump: {fileID: 8300000, guid: f9687bc7b7670504d97e2ecbfefc194f, type: 3}
+  playerDash: {fileID: 8300000, guid: 7ea205e28c628ef47a57fa279cde4335, type: 3}
+  playerFootstep: {fileID: 8300000, guid: f96c99eb3aed5124aa81a2d2d9484340, type: 3}
+  healItemUse: {fileID: 8300000, guid: fa2e1920f278b054c8f3e14a800173c4, type: 3}
+  shieldItemUse: {fileID: 8300000, guid: fc62bdb3e15aea24fb33c4ecf4a8186c, type: 3}
+  monsterAttack1: {fileID: 8300000, guid: e978361810e30244c8871bb6811cddb0, type: 3}
+  monsterAttack2: {fileID: 8300000, guid: e978361810e30244c8871bb6811cddb0, type: 3}
+  monsterTakeHit: {fileID: 8300000, guid: a2baf3a1a46f0cc4da9798539f209df1, type: 3}
+  monsterDeath: {fileID: 8300000, guid: c536f9f9531704d4e89755655993228f, type: 3}
+  slimeAttack: {fileID: 8300000, guid: e4bb936affc178f4a828b30b784b881c, type: 3}
+  slimeTakeHit: {fileID: 8300000, guid: 9a00bd6e9d8e05049bd9a38fffae924b, type: 3}
+  demonSlimeAttack: {fileID: 8300000, guid: c617778a83db53148bf17820dbd573f7, type: 3}
+  mimicAttack2: {fileID: 8300000, guid: df0854773d7b0964a85e44b5163e82ff, type: 3}
+  demonSlimeTakeHit: {fileID: 8300000, guid: ee5d951fcd7c6104b982c23680ebcfe0, type: 3}
+  demonSlimeDeath: {fileID: 8300000, guid: c792eb9699f1a8a40a51d5f466f11adf, type: 3}
+  bossVictory: {fileID: 8300000, guid: 013dbd3c4e75c7b44832e47a80a654e6, type: 3}
+  shieldBreak: {fileID: 8300000, guid: e136732274f62e64ba25adfa1aecbfc8, type: 3}
+  shieldHit: {fileID: 8300000, guid: 7790dcc8959655944b8e2777a6baff89, type: 3}
+  playerRestart: {fileID: 8300000, guid: 8d98cbe25bf6e6a498919caef9305632, type: 3}
+  bossShootAttack: {fileID: 0}
+  bossMagicAttack: {fileID: 0}
+  bossLaserAttack: {fileID: 0}
+  bossMeleeAttack: {fileID: 0}
+  bossShield: {fileID: 0}
+  bossTakeHit: {fileID: 8300000, guid: ee5d951fcd7c6104b982c23680ebcfe0, type: 3}
+  bossDeath: {fileID: 8300000, guid: c536f9f9531704d4e89755655993228f, type: 3}
+  bossAppear: {fileID: 8300000, guid: f9a9f5fe68e9a4d4fabd692e63d16979, type: 3}
+  itemReceived: {fileID: 8300000, guid: 9e7b3a93fb4712f41a2cc5662f68fba9, type: 3}
+  keyPickup: {fileID: 8300000, guid: 9eee7ed95183bae49af04500c324cc0b, type: 3}
+  blessingReceived: {fileID: 8300000, guid: addbf8b0657c1b344b70d2bee1d35aa3, type: 3}
+  levelTransition: {fileID: 0}
+  chestOpen: {fileID: 8300000, guid: cf5caf285ea6f1c42b3925a1cc45e32c, type: 3}
+  exitGateOpen: {fileID: 8300000, guid: 824ee0a69a9631f47a451e353a8c61e3, type: 3}
